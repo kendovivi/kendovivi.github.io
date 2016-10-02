@@ -1,5 +1,3 @@
-##①　Intent 详解
-
 #### 一、 Intent 作用
 Intent 是一个将要执行的动作的抽象的描述，一般来说是作为参数来使用，由Intent来协助完成android各个组件之间的通讯。比如说调用startActivity()来启动一个activity,或者由broadcaseIntent()来传递给所有感兴趣的BroadcaseReceiver, 再或者由startService()/bindservice()来启动一个后台的service.所以可以看出来，intent主要是用来启动其他的activity 或者service，所以可以将intent理解成activity之间的粘合剂。
 
