@@ -17,7 +17,7 @@ avatar: https://avatars1.githubusercontent.com/u/4676121?v=3&s=140
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
+  dribbble: kendovivi
   email: kendovivi@gmail.com
   facebook: kendovivi
   flickr:
@@ -25,11 +25,11 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: 123
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  youtube: kendovivi
+  googleplus: kendovivi.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
