@@ -1,5 +1,3 @@
-# Android知识整理
-
 ##①　Intent 详解
 
 #### 一、 Intent 作用
